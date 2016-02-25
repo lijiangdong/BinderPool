@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BinderPool</string>
+    <string name="add">3+2</string>
+    <string name="sub">3-2</string>
+    <string name="area">长为3宽为2的矩形面积</string>
+    <string name="per">长为3宽为2的矩形周长</string>
+</resources>
